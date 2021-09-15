@@ -1,3 +1,9 @@
+# Juan Racanelli
+
+Coach at @BOX02 and Studying at @Rocketseat.
+
+[![Gmail Badge](https://img.shields.io/badge/-contatoracanelli@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:contatoracanelli@gmail.com)
+
 Expert in making your day better through exercise!
 Also a programming student, venturing down the Discover trail at Rocketseat!
 
